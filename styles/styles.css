@@ -1,0 +1,49 @@
+body {
+    background-color: #212121;
+    color: #fff;
+ }
+ 
+ h1{
+     text-align: center;
+     text-decoration: underline;
+     color: brown;
+ }
+
+ button{
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 10px;
+    border-radius: 20px;
+ }
+
+ form{
+    margin: 0  150px 0 150px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+ }
+
+ label{
+    margin-left: 35%;
+ }
+ 
+ #height{
+    margin-left: 28px;
+ }
+
+ #weight{
+    margin-left: 15px;
+ }
+
+ #weight-guide {
+    border: 2px solid #fff;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;     
+    border-radius: 8px;
+  }
+
+ #result{
+    text-align: center;
+ }
